@@ -8,6 +8,7 @@ This repository contains a collection of components designed for reinforcement l
 
   - **Demand**
   - **Price**
+  - **PV Generation**
   - **Day**
   - **Month**
   - **Hour**
@@ -35,10 +36,3 @@ This repository contains a collection of components designed for reinforcement l
 ## Getting Started
 
 To get started with training an agent in the energy management environment, ensure you have the required dependencies installed. Then, you can run the `agents_main.py` script to begin the training process. Make sure to adjust the data input paths and any hyperparameters according to your experimental setup.
-
-### Installation
-
-Briefly outline the installation process, including installing any dependencies or necessary libraries.
-
-```bash
-pip install -r requirements.txt
